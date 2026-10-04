@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a degree in Mechanical Engineering at the University of Michigan, specializing in Robotics. My academic focus centers on control systems/ robot learning and manipulation.
-
-Previously, I studied Aerospace Engineering at the University of Nottingham, where I had the privilege of being mentored by Prof. Erwin(Xin) Dong. Under his guidance, I began exploring robotics and gained foundational knowledge in this field.
+I am a Ph.D. candidate in Robotics at the University of Michigan, Ann Arbor, working with [Prof. Steven Ceron](https://robotics.umich.edu/people/faculty/steven-ceron/) on control and learning for swarm robotics and multi-robot systems. I received my B.Eng. (Hons) in Aerospace Engineering from the University of Nottingham in 2024, where I began my robotics research with Prof. Erwin (Xin) Dong.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉 I’m heading to the University of Michigan to pursue my master's degree, and I’m eager to explore more about robotics. Hoping to expand my knowledge and skills in this fascinating area!
