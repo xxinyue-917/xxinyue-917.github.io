@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Robotics at the University of Michigan, Ann Arbor, working with [Prof. Steven Ceron](https://robotics.umich.edu/people/faculty/steven-ceron/) on control and learning for swarm robotics and multi-robot systems. I received my B.Eng. (Hons) in Aerospace Engineering from the University of Nottingham in 2024, where I began my robotics research with Prof. Erwin (Xin) Dong.
+I am a Ph.D. candidate in Robotics at the University of Michigan, Ann Arbor, working with [Prof. Steven Ceron](https://robotics.umich.edu/people/faculty/steven-ceron/) on control and learning for swarm robotics and multi-robot systems. Before that, I received my B.Eng. (Hons) in Aerospace Engineering from the University of Nottingham in 2024, where I began my robotics research with [Prof. Erwin (Xin) Dong](https://www.nottingham.ac.uk/engineering/departments/m3/people/xin.dong).
 
 # 🔥 News
+- *2026.06*: One of our papers was accepted for publication in **Advanced Robotics Research**.
+- *2026.06*: I presented our work at **ICRA 2026** in Vienna, Austria.
+- *2026.01*: Our paper was accepted to **ICRA 2026**.
+- *2025.12*: I passed my qualifying exam and advanced to Ph.D. candidacy.
+- *2025.10*: Our paper was accepted for publication in **IEEE Robotics and Automation Letters (RA-L)**.
+- *2025.04*: I transferred to the Ph.D. program in Robotics at the University of Michigan, working with [Prof. Steven Ceron](https://robotics.umich.edu/people/faculty/steven-ceron/).
 - *2024.08*: &nbsp;🎉 I’m heading to the University of Michigan to pursue my master's degree, and I’m eager to explore more about robotics. Hoping to expand my knowledge and skills in this fascinating area!
 
 <!-- # 📝 Publications 
@@ -93,7 +99,7 @@ I am a Ph.D. candidate in Robotics at the University of Michigan, Ann Arbor, wor
 - *2024.7*, Head of Department Award, University of Nottingham, UK
 
 # 📖 Educations
-- *2024.08 - now*, M.Sc, Mechanical Engineering, University of Michigan-Ann Arbor, Ann Arbor, USA.
+- *2024.08 - now*, Ph.D. Robotics, University of Michigan, Ann Arbor, USA.
 - *2022.09 - 2024.06*, B.Eng, Aerospace Engineering, University of Nottingham, Nottingham, UK.
 - *2020.09 - 2022.06*, B.Eng, Aerospace Engineering, University of Nottingham, Ningbo, China.
 
@@ -101,6 +107,7 @@ I am a Ph.D. candidate in Robotics at the University of Michigan, Ann Arbor, wor
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.05 - 2025.08*, Research Intern, [DexRobot](https://www.dex-robot.com/en), Shanghai, China.
 - *2024.06 - 2024.08*, Research Intern, Marine Robotics Research Center, [Huzhou Institute of Zhejiang University](http://hzi.zju.edu.cn/), HuZhou, China.
 - *2022.06 - 2022.09*, Research Intern, Ningbo Ostatus Machinery Technology Co., Ltd., Li Dak Sum Incubator, Ningbo, China.
 - *2021.09 - 2022.06*, Sports Intern, [UNNC Sports Center](https://www.nottingham.edu.cn/en/sport/sport-department.aspx), Ningbo, China.
