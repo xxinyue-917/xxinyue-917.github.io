@@ -30,7 +30,7 @@ DexCanvas is a hybrid dataset for learning dexterous manipulation from human dem
   </div>
   <div class="paper-box-text" markdown="1">
 
-<h3 id="swarmalators-title">Navigation of Robotic Swarmalators <a href="https://doi.org/10.1109/LRA.2025.3640404">[Paper]</a> <a href="{{ '/videos/swarmalators-navigation.mp4' | relative_url }}">[Video]</a></h3>
+<h3 id="swarmalators-title">Navigation of Robotic Swarmalators <a href="https://doi.org/10.1109/LRA.2025.3640404">[Paper]</a> <a href="https://github.com/Synergetic-Adaptive-Machinas-Lab/Navigation-of-Robotic-Swarmalators-With-Dynamics-and-Constraints">[Code]</a> <a href="{{ '/videos/swarmalators-navigation.mp4' | relative_url }}">[Video]</a></h3>
 
 We adapt the swarmalator model to robots with omnidirectional, unicycle, and bicycle dynamics, examining how motion constraints reshape collective behavior. Combining swarmalator planning with control barrier functions enables global and per-agent control for navigation through cluttered environments and object transport around obstacles.
 

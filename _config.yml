@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyue Xu"
-description              : "Passionate student diving into the world of robotics, always eager to learn and explore innovative technologies."
+title                    : "Xinyue Xu | Robotics Ph.D. at UMich"
+description              : "Ph.D. candidate in Robotics, University of Michigan, Ann Arbor"
 repository               : "xxinyue-917/xxinyue-917.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyue Xu"
-  avatar           : "images/Avatar.JPG"
-  bio              : "University of Michigan, Ann Arbor"
+  name_zh          : "徐新越"
+  avatar           : "images/profile-photo.jpg"
+  bio              : "Ph.D. candidate in Robotics, University of Michigan, Ann Arbor"
   location         : "Ann Arbor, USA"
   employer         :
   pubmed           : 
