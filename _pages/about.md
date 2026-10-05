@@ -16,11 +16,11 @@ Outside of research, I’m an avid climber and outdoor enthusiast. My personal b
 
 # 🔥 News
 
-- *2026.06*: One paper was accepted for publication in **Advanced Robotics Research**.
-- *2026.06*: I presented our work at **ICRA 2026** in Vienna, Austria.
-- *2026.01*: One paper was accepted to **ICRA 2026**.
+- *2026.06*: One paper, “Nonreciprocal Swarmalators With Reconfigurable and Controllable Formations for Robot Collectives,” was accepted for publication in **Advanced Robotics Research**.
+- *2026.06*: I presented two works, “Navigation of Robotic Swarmalators With Dynamics and Constraints” (RA-L) and “3D Robotic Swarmalators That Reconfigure, Navigate, and Avoid Obstacles” (ICRA), at **ICRA 2026** in Vienna, Austria.
+- *2026.01*: One paper, “3D Robotic Swarmalators That Reconfigure, Navigate, and Avoid Obstacles,” was accepted to **ICRA 2026**.
 - *2025.12*: I passed my qualifying exam and advanced to Ph.D. candidacy.
-- *2025.10*: One paper was accepted for publication in **IEEE Robotics and Automation Letters (RA-L)**.
+- *2025.10*: One paper, “Navigation of Robotic Swarmalators With Dynamics and Constraints,” was accepted for publication in **IEEE Robotics and Automation Letters (RA-L)**.
 - *2025.04*: I transferred to the Ph.D. program in Robotics at the University of Michigan, working with [Prof. Steven Ceron](https://robotics.umich.edu/people/faculty/steven-ceron/).
 - *2024.08*: &nbsp;🎉 I’m heading to the University of Michigan to pursue my master's degree, and I’m eager to explore more about robotics. Hoping to expand my knowledge and skills in this fascinating area!
 
