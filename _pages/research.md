@@ -74,7 +74,7 @@ Kush Patel<sup>&#42;</sup>, **Xinyue Xu**<sup>&#42;</sup>, Wei Xiao, and Steven 
 
 Zehui Xu<sup>&#42;</sup>, **Xinyue Xu**<sup>&#42;</sup>, and Steven Ceron.  
 *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.<br>
-<a href="https://ieeexplore.ieee.org/abstract/document/11697227">[Paper]</a>
+[Paper](https://ieeexplore.ieee.org/abstract/document/11697227)
 
 </div>
 
