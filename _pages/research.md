@@ -73,7 +73,8 @@ Kush Patel<sup>&#42;</sup>, **Xinyue Xu**<sup>&#42;</sup>, Wei Xiao, and Steven 
 ### 3D Robotic Swarmalators That Reconfigure, Navigate, and Avoid Obstacles
 
 Zehui Xu<sup>&#42;</sup>, **Xinyue Xu**<sup>&#42;</sup>, and Steven Ceron.  
-*IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+*IEEE International Conference on Robotics and Automation (ICRA)*, 2026.<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11697227">[Paper]</a>
 
 </div>
 
