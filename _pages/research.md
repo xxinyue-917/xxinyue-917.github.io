@@ -17,7 +17,7 @@ author_profile: true
 
 <h3 id="dexcanvas-title">DexCanvas <a href="https://arxiv.org/abs/2510.15786">[Paper]</a> <a href="https://github.com/dexrobot/dexcanvas">[Code]</a> <a href="https://huggingface.co/datasets/Dex-GEM/DexCanvas">[Dataset]</a></h3>
 
-DexCanvas is a hybrid dataset for learning dexterous manipulation from human demonstrations. Our pipeline converts motion-capture recordings into MANO hand trajectories and uses reinforcement learning to reproduce hand–object interactions in physics simulation, recovering contact forces that are difficult to measure directly. By combining human motion with physics-based contact annotations, DexCanvas provides data for learning contact-rich manipulation skills.
+DexCanvas introduces a real-to-simulation framework for reconstructing human hand–object interactions. We organize demonstrations around 21 grasp and in-hand manipulation types based on the Cutkosky taxonomy. Reinforcement learning reproduces these interactions in physics simulation, where we extract physically consistent contact forces and synthesize variations of the demonstrated motions. Combining the original demonstrations with these simulated rollouts yields a dataset of manipulation trajectories and contact annotations for robot learning.
 
   </div>
 </div>
